@@ -22,7 +22,7 @@ class CreateStagiairesTable extends Migration
             $table->string('tel');
             $table->string('email');
             $table->string('nom_utilisateur');
-            $table->string('mot_de_passe');
+            $table->string('password');php
             $table->integer('isenabled');
             $table->integer('historique_id')->index();
             $table->timestamps();

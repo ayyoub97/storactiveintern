@@ -1,9 +1,8 @@
 @extends('layouts.app')
 
 @section('content')
-<div class="container-fluid">
-    <div class="row">
-        <div class="col-md-8">
+
+
             <div class="card">
                 <div color="" class="card-header">{{ __('Stagiaires') }}</div>
 
@@ -14,10 +13,10 @@
                         </div>
                     @endif
 
-                    {{ __('You are logged in!') }}
+                    {{ __('You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br>You are logged in! <br> ') }}
                 </div>
             </div>
-        </div>
-    </div>
-</div>
+
+
+
 @endsection
